@@ -1,0 +1,58 @@
+/* ETIQUETAS*/
+body {
+  margin: 1px;
+  padding: 5px 5px;
+  background-color: powderblue;
+  overflow: hidden;
+}
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+header {
+  width: 0%;
+  border: 2px solid powderblue;
+  background-color: powderblue;
+  box-shadow: 5px 5px 10px gray;
+}
+
+img {
+  width: 100%;
+}
+
+main {
+  width: 20%;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+}
+
+#avatar {
+  width: 200px;
+  height: 200px;
+  border: 2px solid black;
+  border-radius: 50%;
+}
+
+/* CLASE */
+.textoCentrado {
+  text-align: center;
+}
+
+.whitetext {
+  color: white;
+}
+
+.background-black {
+  background: black;
+}
+
+#repos-list {
+  display: flex;
+  flex-direction: column;
+}
