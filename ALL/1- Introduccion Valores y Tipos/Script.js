@@ -4,13 +4,17 @@
 // console.log(3);
 // console.log(typeof 3);
 
+
+
 // //Strings
+
 
 // //Booleanos
 
 // //NULL
 
 // //Let mivariable= 3
+// hi
 
 // //if(mivariable=true)
 

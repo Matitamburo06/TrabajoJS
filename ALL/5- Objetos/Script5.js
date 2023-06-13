@@ -6,6 +6,7 @@
 
 //DECLARAR UN OBJETO EN JS
 
+
 // const literalObjet = {
 //   FirstName: "Matias",
 //   Job: "Developer",

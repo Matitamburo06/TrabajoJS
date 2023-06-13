@@ -27,7 +27,7 @@
 
 //listening events and modifyng DOM
 
-//CAMBIOS EN STYLE.CSS  CON CLASS AND DIVS (TIRO ESA NI SE SABE COMO HACERLO HDP CULIA)
+//CAMBIOS EN STYLE.CSS  CON CLASS AND DIVS 
 
 //colorSquares.forEach((square)=> squeare.addEvenListener("click", selectcolor))
 
